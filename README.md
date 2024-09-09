@@ -4,6 +4,9 @@
 
 **One Bus** é um aplicativo e site que visa integrar e simplificar o acesso a informações sobre transporte público, proporcionando uma experiência mais eficiente e conveniente para os usuários. O sistema oferece informações em tempo real sobre a localização dos ônibus, suas rotas, horários e os pontos de ônibus mais próximos, centralizando tudo em uma única plataforma.
 
+## Documentação
+Aqui se encontra o link para a documentação do projeto - https://docs.google.com/document/d/10EuMv7telS3hluXgbZHoX3keIBw27fFrKJyIyTh5c1Y/edit?pli=1
+
 ## Motivação
 
 Atualmente, a obtenção de informações sobre ônibus e transporte público é um processo ineficiente e fragmentado. As pessoas precisam acessar múltiplos sites ou usar diferentes aplicativos para saber o horário, a rota ou a localização dos ônibus. O **One Bus** resolve esse problema ao fornecer todas essas informações de forma centralizada e em tempo real.
