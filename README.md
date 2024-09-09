@@ -98,11 +98,5 @@ Sinta-se à vontade para contribuir com o **One Bus**! Você pode fazer isso de 
 4. Push para o branch (`git push origin feature/nova-feature`)
 5. Abra um Pull Request
 
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
-
-## Contato
-
 
 Obrigado por usar o **One Bus**! Vamos tornar o transporte público mais eficiente e acessível para todos.
